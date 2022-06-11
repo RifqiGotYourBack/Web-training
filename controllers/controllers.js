@@ -12,7 +12,11 @@ class Controllers {
   }
   static async getTanks(req, res, next) {
     try {
-    } catch (err) {}
+      let getTanks = await Tanks.findAll();
+      res.status(200).json(getTanks);
+    } catch (err) {
+      next(err);
+    }
   }
 }
 

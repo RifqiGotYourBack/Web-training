@@ -11,6 +11,13 @@ module.exports = {
       tankName: {
         type: Sequelize.STRING,
       },
+      userID: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: "Users",
+          key: "id",
+        },
+      },
       countryId: {
         type: Sequelize.INTEGER,
         references: {
