@@ -1,0 +1,67 @@
+[
+  {
+    "tankName": "M5A1",
+    "countryId": "1",
+    "turretCaliber": "37"
+  },
+  {
+    "tankName": "M3 Lee",
+    "countryId": "1",
+    "turretCaliber": "37"
+  },
+  {
+    "tankName": "M4A3 (105) HVSS Sherman",
+    "countryId": "1",
+    "turretCaliber": "105"
+  },
+  {
+    "tankName": "M10 GMC",
+    "countryId": "1",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M24 Chaffee",
+    "countryId": "1",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A1 Sherman",
+    "countryId": "1",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": " M4 Sherman",
+    "countryId": "1",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A2 Sherman",
+    "countryId": "1",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M6A1",
+    "countryId": "1",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M18 GMC",
+    "countryId": "1",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M4A1 (76) W Sherman",
+    "countryId": "1",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M4A3E2 Jumbo",
+    "countryId": "1",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A2 (76) W Sherman",
+    "countryId": "1",
+    "turretCaliber": "76"
+  }
+]
