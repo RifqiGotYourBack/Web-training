@@ -18,6 +18,13 @@ class Controllers {
       next(err);
     }
   }
+  static async addTanks(req, res, next) {
+    try {
+      let addTanks = await Tanks.create({
+        userID,
+      });
+    } catch (errr) {}
+  }
 }
 
 module.exports = Controllers;

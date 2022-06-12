@@ -1,0 +1,102 @@
+[
+  {
+    "tankName": "Sd.Kfz.234/2",
+    "countryId": "2",
+    "turretCaliber": "50"
+  },
+  {
+    "tankName": "Marder III",
+    "countryId": "2",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Dicker Max",
+    "countryId": "2",
+    "turretCaliber": "105"
+  },
+  {
+    "tankName": "Panzer III J1",
+    "countryId": "2",
+    "turretCaliber": "50"
+  },
+  {
+    "tankName": "Panzer III L",
+    "countryId": "2",
+    "turretCaliber": "50"
+  },
+  {
+    "tankName": "Panzer IV F1",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Panzer IV F2",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Panzer IV H",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "StuH 42 G",
+    "countryId": "2",
+    "turretCaliber": "105"
+  },
+  {
+    "tankName": "StuG III F",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "StuG III G",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "8,8 cm Flak 37 Sfl",
+    "countryId": "2",
+    "turretCaliber": "88"
+  },
+  {
+    "tankName": "Sturer Emil",
+    "countryId": "2",
+    "turretCaliber": "128"
+  },
+  {
+    "tankName": "Nashorn",
+    "countryId": "2",
+    "turretCaliber": "88"
+  },
+  {
+    "tankName": "Tiger H1",
+    "countryId": "2",
+    "turretCaliber": "88"
+  },
+  {
+    "tankName": "Tiger E",
+    "countryId": "2",
+    "turretCaliber": "88"
+  },
+  {
+    "tankName": "Panther D",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Jagdpanzer 38(t)",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Jagdpanzer IV",
+    "countryId": "2",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Panzer IV/70(V)",
+    "countryId": "2",
+    "turretCaliber": "75"
+  }
+]
