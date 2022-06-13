@@ -1,0 +1,62 @@
+[
+  {
+    "tankName": "M3A3 Stuart",
+    "countryId": "6",
+    "turretCaliber": "37"
+  },
+  {
+    "tankName": "M24 Chaffee (China)",
+    "countryId": "6",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Chi-Ha Kai (China)",
+    "countryId": "6",
+    "turretCaliber": "47"
+  },
+  {
+    "tankName": "T-34 (1943) (China)",
+    "countryId": "6",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M4A4 Sherman (China)",
+    "countryId": "6",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "LVT(A)(4) (ZiS-2)",
+    "countryId": "6",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "M10 GMC (China)",
+    "countryId": "6",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "PT-76 (China)",
+    "countryId": "6",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "M4A1 (75) W (China)",
+    "countryId": "6",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "T-34-85 (S-53) (China)",
+    "countryId": "6",
+    "turretCaliber": "85"
+  },
+  {
+    "tankName": "ISU-152 (China)",
+    "countryId": "6",
+    "turretCaliber": "152"
+  },
+  {
+    "tankName": "M18 GMC (China)",
+    "countryId": "6",
+    "turretCaliber": "76"
+  }
+]
