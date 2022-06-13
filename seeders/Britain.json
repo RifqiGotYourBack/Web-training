@@ -1,0 +1,82 @@
+[
+  {
+    "tankName": "Crusader II (A15)",
+    "countryId": "4",
+    "turretCaliber": "40"
+  },
+  {
+    "tankName": "Cromwell V",
+    "countryId": "4",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Sherman II",
+    "countryId": "4",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Valentine I",
+    "countryId": "4",
+    "turretCaliber": "40"
+  },
+  {
+    "tankName": "Matilda III",
+    "countryId": "4",
+    "turretCaliber": "40"
+  },
+  {
+    "tankName": "Churchill I",
+    "countryId": "4",
+    "turretCaliber": "40"
+  },
+  {
+    "tankName": "Archer",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Churchill (A22D)",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Achilles",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Sherman VC Firefly",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Challenger (A30)",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Comet I (A34)",
+    "countryId": "4",
+    "turretCaliber": "77"
+  },
+  {
+    "tankName": "Churchill III",
+    "countryId": "4",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "Churchill VII",
+    "countryId": "4",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "Avenger",
+    "countryId": "4",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "Concept 3",
+    "countryId": "4",
+    "turretCaliber": "77"
+  }
+]
