@@ -14,7 +14,7 @@ module.exports = {
      * }], {});
      */
     const fs = require("fs");
-    let data = fs.readFileSync("./seeders/Britain.json");
+    let data = fs.readFileSync("./seeders/Japan.json");
     data = JSON.parse(data);
     data.forEach((val) => {
       val.createdAt = new Date();
