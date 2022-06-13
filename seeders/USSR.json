@@ -1,0 +1,117 @@
+[
+  {
+    "tankName": " T-50",
+    "countryId": "3",
+    "turretCaliber": "45"
+  },
+  {
+    "tankName": " T-34 (1940)",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "T-34 (1942)",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": " T-34E STZ",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "T-28",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "KV-1 (L-11)",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "KV-2",
+    "countryId": "3",
+    "turretCaliber": "152"
+  },
+  {
+    "tankName": " KV-1S",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "T-80",
+    "countryId": "3",
+    "turretCaliber": "45"
+  },
+  {
+    "tankName": "SU-122",
+    "countryId": "3",
+    "turretCaliber": "122"
+  },
+  {
+    "tankName": "ZiS-30",
+    "countryId": "3",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "SU-57B",
+    "countryId": "3",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "YaG-10 (29-K)",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "T-34-57",
+    "countryId": "3",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "T-34-85 (D-5T)",
+    "countryId": "3",
+    "turretCaliber": "86"
+  },
+  {
+    "tankName": "KV-1 (ZiS-5)",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "KV-85",
+    "countryId": "3",
+    "turretCaliber": "85"
+  },
+  {
+    "tankName": "IS-1",
+    "countryId": "3",
+    "turretCaliber": "85"
+  },
+  {
+    "tankName": "ASU-57",
+    "countryId": "3",
+    "turretCaliber": "57"
+  },
+  {
+    "tankName": "PT-76B",
+    "countryId": "3",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "SU-152",
+    "countryId": "3",
+    "turretCaliber": "152"
+  },
+  {
+    "tankName": "SU-85",
+    "countryId": "3",
+    "turretCaliber": "85"
+  },
+  {
+    "tankName": "ISU-122",
+    "countryId": "3",
+    "turretCaliber": "122"
+  }
+]
