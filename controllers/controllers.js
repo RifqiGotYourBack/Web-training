@@ -1,4 +1,5 @@
-const { Users, Country, Tank } = require("../models");
+const countryId = require("../helpers/countryId");
+const { Users, Countries, Tanks } = require("../models");
 
 class Controllers {
   static async signIn(req, res, next) {
@@ -13,9 +14,7 @@ class Controllers {
   static async login(req, res, next) {
     try {
       let findUser = await Users.findOne({ where: { email: req.body.email } });
-      if (
-        JSON.stringify(req.body.password) == JSON.stringify(findUser.password)
-      ) {
+      if (req.body.password == findUser.password) {
         res.status(200).json({ status: "Authentication succeed" });
         console.log(findUser);
       }
@@ -23,10 +22,12 @@ class Controllers {
       next(err);
     }
   }
-  static async getTanks(req, res, next) {
+  static async findTanksByCountry(req, res, next) {
     try {
-      let getTanks = await Tanks.findAll();
-      res.status(200).json(getTanks);
+      let findTanksByCountry = await Tanks.findAll({
+        where: { countryId: `${countryId(req.body.country)}` },
+      });
+      res.status(200).json(findTanksByCountry);
     } catch (err) {
       next(err);
     }

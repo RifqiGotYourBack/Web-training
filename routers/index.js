@@ -3,6 +3,7 @@ const router = express.Router();
 const Controllers = require("../controllers/controllers");
 router.post("/signIn", Controllers.signIn);
 router.post("/login", Controllers.login);
+router.post("/Country", Controllers.findTanksByCountry);
 
 module.exports = router;
 // //Middleware
