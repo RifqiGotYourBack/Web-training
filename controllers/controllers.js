@@ -1,4 +1,3 @@
-const countryId = require("../helpers/countryId");
 const { Users, Countries, Tanks } = require("../models");
 
 class Controllers {
@@ -24,8 +23,9 @@ class Controllers {
   }
   static async findTanksByCountry(req, res, next) {
     try {
-      let findTanksByCountry = await Tanks.findAll({
-        where: { countryId: `${countryId(req.body.country)}` },
+      let findTanksByCountry = await Countries.findAll({
+        where: { countryName: req.body.country },
+        include: { model: Tanks, as: "Tanks" },
       });
       res.status(200).json(findTanksByCountry);
     } catch (err) {
