@@ -1,0 +1,72 @@
+[
+  {
+    "tankName": "Crusader Mk.II (France)",
+    "countryId": "8",
+    "turretCaliber": "40"
+  },
+  {
+    "tankName": "M3A3 Stuart (France)",
+    "countryId": "8",
+    "turretCaliber": "37"
+  },
+  {
+    "tankName": "M4A1 (France)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "B1 bis",
+    "countryId": "8",
+    "turretCaliber": "47"
+  },
+  {
+    "tankName": "M4A3 (105) (France)",
+    "countryId": "8",
+    "turretCaliber": "105"
+  },
+  {
+    "tankName": "SAu 40",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M10 GMC (France)",
+    "countryId": "8",
+    "turretCaliber": "76"
+  },
+  {
+    "tankName": "AMX-13 (FL11)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "E.B.R (1951)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A4 (France)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A4 (SA50)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "ARL-44 (ACL-1)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A3E2 (France)",
+    "countryId": "8",
+    "turretCaliber": "75"
+  },
+  {
+    "tankName": "M4A3E2 (France)",
+    "countryId": "8",
+    "turretCaliber": "90"
+  }
+]
