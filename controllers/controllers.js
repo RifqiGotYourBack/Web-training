@@ -10,6 +10,19 @@ class Controllers {
       next(err);
     }
   }
+  static async login(req, res, next) {
+    try {
+      let findUser = await Users.findOne({ where: { email: req.body.email } });
+      if (
+        JSON.stringify(req.body.password) == JSON.stringify(findUser.password)
+      ) {
+        res.status(200).json({ status: "Authentication succeed" });
+        console.log(findUser);
+      }
+    } catch (err) {
+      next(err);
+    }
+  }
   static async getTanks(req, res, next) {
     try {
       let getTanks = await Tanks.findAll();
@@ -17,13 +30,6 @@ class Controllers {
     } catch (err) {
       next(err);
     }
-  }
-  static async addTanks(req, res, next) {
-    try {
-      let addTanks = await Tanks.create({
-        userID,
-      });
-    } catch (errr) {}
   }
 }
 

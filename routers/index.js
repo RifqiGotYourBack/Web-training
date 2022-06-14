@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router();
 const Controllers = require("../controllers/controllers");
 router.post("/signIn", Controllers.signIn);
+router.post("/login", Controllers.login);
 
 module.exports = router;
 // //Middleware
