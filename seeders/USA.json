@@ -1,102 +1,93 @@
 [
   {
-    "tankName": "Sd.Kfz.234/2",
-    "countryId": "2",
-    "turretCaliber": "50"
+    "tankName": "M5A1",
+    "rank": "2",
+    "type": "light tank",
+    "countryId": "1",
+    "turret": "37 mm M6 cannon"
   },
   {
-    "tankName": "Marder III",
-    "countryId": "2",
-    "turretCaliber": "76"
+    "tankName": "M24",
+    "rank": "2",
+    "type": "light tank",
+    "countryId": "1",
+    "turret": "75 mm M6 cannon"
   },
   {
-    "tankName": "Dicker Max",
-    "countryId": "2",
-    "turretCaliber": "105"
+    "tankName": "M3 Lee",
+    "rank": "2",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "75 mm M6 cannon"
   },
   {
-    "tankName": "Panzer III J1",
-    "countryId": "2",
-    "turretCaliber": "50"
+    "tankName": "M4A1",
+    "rank": "2",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "75 mm M6 cannon"
   },
   {
-    "tankName": "Panzer III L",
-    "countryId": "2",
-    "turretCaliber": "50"
+    "tankName": "M4",
+    "rank": "2",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "75 mm M6 cannon"
   },
   {
-    "tankName": "Panzer IV F1",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M4A3 (105)",
+    "rank": "2",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "105 mm M4 howitzer"
   },
   {
-    "tankName": "Panzer IV F2",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M10 GMC",
+    "rank": "2",
+    "type": "tank destroyer",
+    "countryId": "1",
+    "turret": "76 mm M7 cannon"
   },
   {
-    "tankName": "Panzer IV H",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M4A2",
+    "rank": "3",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "75 mm M3 cannon"
   },
   {
-    "tankName": "StuH 42 G",
-    "countryId": "2",
-    "turretCaliber": "105"
+    "tankName": "M4A1 (76) W",
+    "rank": "3",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "76 mm M1 cannon"
   },
   {
-    "tankName": "StuG III F",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M4A2 (76) W",
+    "rank": "3",
+    "type": "medium tank",
+    "countryId": "1",
+    "turret": "76 mm M1 cannon"
   },
   {
-    "tankName": "StuG III G",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M6A1",
+    "rank": "3",
+    "type": "heavy tank",
+    "countryId": "1",
+    "turret": "76 mm M7 cannon"
   },
   {
-    "tankName": "8,8 cm Flak 37 Sfl",
-    "countryId": "2",
-    "turretCaliber": "88"
+    "tankName": "M4A3E2",
+    "rank": "3",
+    "type": "heavy tank",
+    "countryId": "1",
+    "turret": "75 mm M3 cannon"
   },
   {
-    "tankName": "Sturer Emil",
-    "countryId": "2",
-    "turretCaliber": "128"
-  },
-  {
-    "tankName": "Nashorn",
-    "countryId": "2",
-    "turretCaliber": "88"
-  },
-  {
-    "tankName": "Tiger H1",
-    "countryId": "2",
-    "turretCaliber": "88"
-  },
-  {
-    "tankName": "Tiger E",
-    "countryId": "2",
-    "turretCaliber": "88"
-  },
-  {
-    "tankName": "Panther D",
-    "countryId": "2",
-    "turretCaliber": "75"
-  },
-  {
-    "tankName": "Jagdpanzer 38(t)",
-    "countryId": "2",
-    "turretCaliber": "75"
-  },
-  {
-    "tankName": "Jagdpanzer IV",
-    "countryId": "2",
-    "turretCaliber": "75"
-  },
-  {
-    "tankName": "Panzer IV/70(V)",
-    "countryId": "2",
-    "turretCaliber": "75"
+    "tankName": "M18 GMC",
+    "rank": "3",
+    "type": "light tank",
+    "countryId": "1",
+    "turret": "76 mm M1 cannon"
   }
 ]

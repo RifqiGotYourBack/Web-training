@@ -1,46 +1,64 @@
 [
   {
     "tankName": "Strv m/41 S-II",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "37"
   },
   {
     "tankName": "Lago I",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "37"
   },
   {
     "tankName": "Strv m/42 EH",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "75"
   },
   {
     "tankName": "Sav m/43 (1944)",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "75"
   },
   {
     "tankName": "Sav m/43 (1946)",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "105"
   },
   {
     "tankName": "Pvkv II",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "75"
   },
   {
     "tankName": "Ikv 103",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "105"
   },
   {
     "tankName": "Strv m/42 DT",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "75"
   },
   {
     "tankName": "Pvkv m/43 (1946)",
+    "rank": "",
+    "type": "",
     "countryId": "9",
     "turretCaliber": "75"
   }

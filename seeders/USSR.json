@@ -1,11 +1,11 @@
 [
   {
-    "tankName": " T-50",
+    "tankName": "T-50",
     "countryId": "3",
     "turretCaliber": "45"
   },
   {
-    "tankName": " T-34 (1940)",
+    "tankName": "T-34 (1940)",
     "countryId": "3",
     "turretCaliber": "76"
   },
@@ -15,7 +15,7 @@
     "turretCaliber": "76"
   },
   {
-    "tankName": " T-34E STZ",
+    "tankName": "T-34E STZ",
     "countryId": "3",
     "turretCaliber": "76"
   },
@@ -35,7 +35,7 @@
     "turretCaliber": "152"
   },
   {
-    "tankName": " KV-1S",
+    "tankName": "KV-1S",
     "countryId": "3",
     "turretCaliber": "76"
   },

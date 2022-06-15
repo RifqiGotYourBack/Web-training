@@ -1,81 +1,113 @@
 [
   {
     "tankName": "Crusader II (A15)",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "40"
   },
   {
     "tankName": "Cromwell V",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "75"
   },
   {
     "tankName": "Sherman II",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "75"
   },
   {
     "tankName": "Valentine I",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "40"
   },
   {
     "tankName": "Matilda III",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "40"
   },
   {
     "tankName": "Churchill I",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "40"
   },
   {
     "tankName": "Archer",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Churchill (A22D)",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Achilles",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Sherman VC Firefly",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Challenger (A30)",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Comet I (A34)",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "77"
   },
   {
     "tankName": "Churchill III",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "57"
   },
   {
     "tankName": "Churchill VII",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "75"
   },
   {
     "tankName": "Avenger",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "76"
   },
   {
     "tankName": "Concept 3",
+    "rank": "",
+    "type": "",
     "countryId": "4",
     "turretCaliber": "77"
   }

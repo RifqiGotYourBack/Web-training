@@ -1,102 +1,142 @@
 [
   {
     "tankName": "Sd.Kfz.234/2",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "2",
-    "turretCaliber": "50"
+    "turret": "50 mm KwK.39/1 cannon"
   },
   {
     "tankName": "Marder III",
+    "rank": "2",
+    "type": "tnak destroyer",
     "countryId": "2",
-    "turretCaliber": "76"
+    "turret": "76 mm PaK36 (r) cannon"
   },
   {
     "tankName": "Dicker Max",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "105"
+    "turret": "105 mm K.18 cannon"
   },
   {
     "tankName": "Panzer III J1",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "50"
+    "turret": "50 mm KwK39 cannon"
   },
   {
     "tankName": "Panzer III L",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "50"
+    "turret": "50 mm KwK39 cannon"
   },
   {
     "tankName": "Panzer IV F1",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm KwK37 cannon"
   },
   {
     "tankName": "Panzer IV F2",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm KwK40 L43 cannon"
   },
   {
     "tankName": "Panzer IV H",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm KwK40 L48 cannon"
   },
   {
     "tankName": "StuH 42 G",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "105"
+    "turret": "105 mm StuH42 howitzer"
   },
   {
     "tankName": "StuG III F",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm StuK40 L43 cannon"
   },
   {
     "tankName": "StuG III G",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm StuK40 L48 cannon"
   },
   {
-    "tankName": "8,8 cm Flak 37 Sfl",
+    "tankName": "8,8 cm Flak 37 Sf",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "88"
+    "turret": "88 mm Flak.37 cannon"
   },
   {
     "tankName": "Sturer Emil",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "128"
+    "turret": "128 mm K.40 cannon"
   },
   {
     "tankName": "Nashorn",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "88"
+    "turret": "88 mm Flak.37 cannon"
   },
   {
     "tankName": "Tiger H1",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "2",
-    "turretCaliber": "88"
+    "turret": "88 mm KwK36 cannon"
   },
   {
     "tankName": "Tiger E",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "2",
-    "turretCaliber": "88"
+    "turret": "88 mm KwK36 cannon"
   },
   {
     "tankName": "Panther D",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm KwK42 cannon"
   },
   {
     "tankName": "Jagdpanzer 38(t)",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm PaK39 L48 cannon"
   },
   {
     "tankName": "Jagdpanzer IV",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm PaK39 L48 cannon"
   },
   {
     "tankName": "Panzer IV/70(V)",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "2",
-    "turretCaliber": "75"
+    "turret": "75 mm PaK42 cannon"
   }
 ]

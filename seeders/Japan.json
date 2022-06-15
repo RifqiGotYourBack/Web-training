@@ -1,61 +1,85 @@
 [
   {
     "tankName": "Chi-Ha Kai",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "47"
   },
   {
     "tankName": "Chi-He",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "47"
   },
   {
     "tankName": "Chi-Nu",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Ho-Ni I",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Ho-Ni III",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Chi-Ha LG",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "120"
   },
   {
     "tankName": "M24 SDF",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "M4A3 (76) W",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "76"
   },
   {
     "tankName": "Chi-To",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Chi-To Late",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Chi-Ri II",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   },
   {
     "tankName": "Na-To",
+    "rank": "",
+    "type": "",
     "countryId": "5",
     "turretCaliber": "75"
   }

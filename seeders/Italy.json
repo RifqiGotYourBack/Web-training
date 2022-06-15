@@ -1,86 +1,120 @@
 [
   {
     "tankName": "AB 43",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "47"
   },
   {
     "tankName": "M3A3 (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "37"
   },
   {
     "tankName": "M24 (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "M15/42",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "47"
   },
   {
     "tankName": "Pz.III N (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "P40",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "75/18 M41",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "75/34 M42",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "105/25 M43",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "105"
   },
   {
     "tankName": "Breda 501",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "90"
   },
   {
     "tankName": "M18 (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "76"
   },
   {
     "tankName": "M4A4 (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "M4 Tipo IC",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "76"
   },
   {
     "tankName": "Sherman Vc (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "76"
   },
   {
     "tankName": "90/53 M41M",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "90"
   },
   {
     "tankName": "StuG III G (Italy)",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   },
   {
     "tankName": "75/46 M43",
+    "rank": "",
+    "type": "",
     "countryId": "7",
     "turretCaliber": "75"
   }
