@@ -10,23 +10,27 @@ module.exports = {
       },
       tankName: {
         type: Sequelize.STRING,
+        allowNull: false,
       },
-      userID: {
+      turret: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      rank: {
         type: Sequelize.INTEGER,
+        allowNull: false,
+      },
+      type: {
+        type: Sequelize.STRING,
+        allowNull: false,
+      },
+      countryId: {
+        type: Sequelize.INTEGER,
+        allowNull: false,
         references: {
           model: "Users",
           key: "id",
         },
-      },
-      countryId: {
-        type: Sequelize.INTEGER,
-        references: {
-          model: "Countries",
-          key: "id",
-        },
-      },
-      turretCaliber: {
-        type: Sequelize.INTEGER,
       },
       createdAt: {
         allowNull: false,
