@@ -9,13 +9,16 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      Tanks.belongsTo(models.Countries, {
+        foreignKey: "countryId",
+        as: "Tankinfo",
+      });
     }
   }
+
   Tanks.init(
     {
       tankName: DataTypes.STRING,
-      countryId: DataTypes.INTEGER,
-      turretCaliber: DataTypes.INTEGER,
     },
     {
       sequelize,

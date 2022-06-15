@@ -32,6 +32,17 @@ class Controllers {
       next(err);
     }
   }
+  static async findTanksByName(req, res, next) {
+    try {
+      let findTanksByName = await Tanks.findOne({
+        where: { tankName: req.body.name },
+        include: { model: Countries, as: "Tankinfo" },
+      });
+      res.status(200).json(findTanksByName);
+    } catch (err) {
+      next(err);
+    }
+  }
 }
 
 module.exports = Controllers;
