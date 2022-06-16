@@ -43,6 +43,16 @@ class Controllers {
       next(err);
     }
   }
+  static async findTanksByType(req, res, next) {
+    try {
+      let findTanksByType = await Tanks.findAll({
+        where: { type: req.body.type },
+      });
+      res.status(200).json(findTanksByType);
+    } catch (err) {
+      next(err);
+    }
+  }
 }
 
 module.exports = Controllers;
