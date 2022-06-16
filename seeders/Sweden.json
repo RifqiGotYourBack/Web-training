@@ -1,65 +1,65 @@
 [
   {
     "tankName": "Strv m/41 S-II",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "9",
-    "turretCaliber": "37"
+    "turret": "37 mm kan m/38 cannon"
   },
   {
     "tankName": "Lago I",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "9",
-    "turretCaliber": "37"
+    "turret": "37 mm kan m/38 cannon"
   },
   {
     "tankName": "Strv m/42 EH",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "9",
-    "turretCaliber": "75"
+    "turret": "75 mm kan m/41 cannon"
   },
   {
     "tankName": "Sav m/43 (1944)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "9",
-    "turretCaliber": "75"
+    "turret": "75 mm kan m/02 cannon"
   },
   {
     "tankName": "Sav m/43 (1946)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "9",
-    "turretCaliber": "105"
+    "turret": "105 mm kan m/44 cannon"
   },
   {
     "tankName": "Pvkv II",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "9",
-    "turretCaliber": "75"
+    "turret": "75 mm lvkan m/37 A cannon"
   },
   {
     "tankName": "Ikv 103",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "9",
-    "turretCaliber": "105"
+    "turret": "105 mm kan Ikv cannon"
   },
   {
     "tankName": "Strv m/42 DT",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "9",
-    "turretCaliber": "75"
+    "turret": "75 mm Pvkan m/43 cannon"
   },
   {
     "tankName": "Pvkv m/43 (1946)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "9",
-    "turretCaliber": "75"
+    "turret": "75 mm Pvkan m/43 cannon"
   }
 ]

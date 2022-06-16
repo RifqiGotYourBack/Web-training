@@ -1,100 +1,100 @@
 [
   {
     "tankName": "Crusader Mk.II (France)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "8",
-    "turretCaliber": "40"
+    "turret": "40 mm QF 2-pounder cannon"
   },
   {
     "tankName": "M3A3 Stuart (France)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "8",
-    "turretCaliber": "37"
+    "turret": "37 mm M6 cannon"
   },
   {
     "tankName": "M4A1 (France)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
     "tankName": "B1 bis",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "8",
-    "turretCaliber": "47"
+    "turret": "47 mm SA35 L/32 cannon"
   },
   {
     "tankName": "M4A3 (105) (France)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "8",
-    "turretCaliber": "105"
+    "turret": "105 mm M4 howitzer"
   },
   {
     "tankName": "SAu 40",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm APX cannon"
   },
   {
     "tankName": "M10 GMC (France)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "8",
-    "turretCaliber": "76"
+    "turret": "76 mm M7 cannon"
   },
   {
     "tankName": "AMX-13 (FL11)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm SA49 cannon"
   },
   {
     "tankName": "E.B.R (1951)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm SA49 cannon"
   },
   {
     "tankName": "M4A4 (France)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
     "tankName": "M4A4 (SA50)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm SA50 L/57 cannon"
   },
   {
     "tankName": "ARL-44 (ACL-1)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm SA44 cannon"
   },
   {
     "tankName": "M4A3E2 (France)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "8",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
-    "tankName": "M4A3E2 (France)",
-    "rank": "",
-    "type": "",
+    "tankName": "ARL-44",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "8",
-    "turretCaliber": "90"
+    "turret": "90 mm SA45 cannon"
   }
 ]
