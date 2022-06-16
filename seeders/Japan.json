@@ -1,86 +1,86 @@
 [
   {
     "tankName": "Chi-Ha Kai",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "47"
+    "turret": "47 mm Type 1 cannon"
   },
   {
     "tankName": "Chi-He",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "47"
+    "turret": "47 mm Type 1 cannon"
   },
   {
     "tankName": "Chi-Nu",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type 3 cannon"
   },
   {
     "tankName": "Ho-Ni I",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type 90 cannon"
   },
   {
     "tankName": "Ho-Ni III",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type 3 cannon"
   },
   {
     "tankName": "Chi-Ha LG",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "5",
-    "turretCaliber": "120"
+    "turret": "120 mm 10th Year Type cannon"
   },
   {
-    "tankName": "M24 SDF",
-    "rank": "",
-    "type": "",
+    "tankName": "M24 (Japan)",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm M6 cannon"
   },
   {
-    "tankName": "M4A3 (76) W",
-    "rank": "",
-    "type": "",
+    "tankName": "M4A3 (76) W (Japan)",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "76"
+    "turret": "76 mm M1 cannon"
   },
   {
     "tankName": "Chi-To",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type II Model II cannon"
   },
   {
     "tankName": "Chi-To Late",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type II Model II cannon"
   },
   {
     "tankName": "Chi-Ri II",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Type II Model I cannon"
   },
   {
     "tankName": "Na-To",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "5",
-    "turretCaliber": "75"
+    "turret": "75 mm Lightweight Type I Model II cannon"
   }
 ]

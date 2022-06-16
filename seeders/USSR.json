@@ -1,117 +1,163 @@
 [
   {
     "tankName": "T-50",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "3",
-    "turretCaliber": "45"
+    "turret": "45 mm 20-K cannon"
   },
   {
-    "tankName": "T-34 (1940)",
+    "tankName": "T-34",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm L-11 cannon"
   },
   {
     "tankName": "T-34 (1942)",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm F-34 cannon"
   },
   {
     "tankName": "T-34E STZ",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm F-34 cannon"
   },
   {
     "tankName": "T-28",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm L-10 cannon"
   },
   {
     "tankName": "KV-1 (L-11)",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm L-11 cannon"
   },
   {
     "tankName": "KV-2",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "3",
-    "turretCaliber": "152"
+    "turret": "152 mm M-10T howitzer"
   },
   {
     "tankName": "KV-1S",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm ZIS-5 cannon"
   },
   {
     "tankName": "T-80",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "3",
-    "turretCaliber": "45"
+    "turret": "45 mm 20-K cannon"
   },
   {
     "tankName": "SU-122",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "122"
+    "turret": "122 mm M-30 howitzer"
   },
   {
     "tankName": "ZiS-30",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "57"
+    "turret": "57 mm ZIS-2 cannon"
   },
   {
     "tankName": "SU-57B",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "57"
+    "turret": "57 mm ZIS-4 cannon"
   },
   {
     "tankName": "YaG-10 (29-K)",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm 3-K cannon"
   },
   {
     "tankName": "T-34-57",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "57"
+    "turret": "57 mm ZIS-4 cannon"
   },
   {
     "tankName": "T-34-85 (D-5T)",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "3",
-    "turretCaliber": "86"
+    "turret": "85 mm D-5T cannon"
   },
   {
     "tankName": "KV-1 (ZiS-5)",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm ZIS-5 cannon"
   },
   {
     "tankName": "KV-85",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "3",
-    "turretCaliber": "85"
+    "turret": "85 mm D-5T cannon"
   },
   {
     "tankName": "IS-1",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "85"
+    "turret": "85 mm D-5T cannon"
   },
   {
     "tankName": "ASU-57",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "57"
+    "turret": "57 mm Ch-51M cannon"
   },
   {
     "tankName": "PT-76B",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "3",
-    "turretCaliber": "76"
+    "turret": "76 mm D-56TS cannon"
   },
   {
     "tankName": "SU-152",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "152"
+    "turret": "152 mm ML-20S cannon"
   },
   {
     "tankName": "SU-85",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "85"
+    "turret": "85 mm D-5S cannon"
   },
   {
     "tankName": "ISU-122",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "3",
-    "turretCaliber": "122"
+    "turret": "122 mm A-19 cannon"
   }
 ]

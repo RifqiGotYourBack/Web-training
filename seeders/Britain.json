@@ -1,114 +1,114 @@
 [
   {
-    "tankName": "Crusader II (A15)",
-    "rank": "",
-    "type": "",
+    "tankName": "Crusader",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "4",
-    "turretCaliber": "40"
+    "turret": "40 mm QF 2-pounder cannon"
   },
   {
-    "tankName": "Cromwell V",
-    "rank": "",
-    "type": "",
+    "tankName": "Cromwell",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "75"
+    "turret": "75 mm OQF Mk.V cannon"
   },
   {
     "tankName": "Sherman II",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
-    "tankName": "Valentine I",
-    "rank": "",
-    "type": "",
+    "tankName": "Valentine",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "40"
+    "turret": "40 mm QF 2-pounder cannon"
   },
   {
     "tankName": "Matilda III",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "4",
-    "turretCaliber": "40"
+    "turret": "40 mm QF 2-pounder cannon"
   },
   {
     "tankName": "Churchill I",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "heavy tank",
     "countryId": "4",
-    "turretCaliber": "40"
+    "turret": "40 mm QF 2-pounder cannon"
   },
   {
     "tankName": "Archer",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
-    "tankName": "Churchill (A22D)",
-    "rank": "",
-    "type": "",
+    "tankName": "Gun Carrier (3-in)",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm OQF 3in 20cwt cannon"
   },
   {
     "tankName": "Achilles",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
-    "tankName": "Sherman VC Firefly",
-    "rank": "",
-    "type": "",
+    "tankName": "Sherman Firefly",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
-    "tankName": "Challenger (A30)",
-    "rank": "",
-    "type": "",
+    "tankName": "Challenger",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
-    "tankName": "Comet I (A34)",
-    "rank": "",
-    "type": "",
+    "tankName": "Comet I",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "77"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
     "tankName": "Churchill III",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "4",
-    "turretCaliber": "57"
+    "turret": "57 mm 6pdr OQF Mk.V cannon"
   },
   {
     "tankName": "Churchill VII",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "heavy tank",
     "countryId": "4",
-    "turretCaliber": "75"
+    "turret": "75 mm OQF Mk.V cannon"
   },
   {
     "tankName": "Avenger",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "4",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
     "tankName": "Concept 3",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "4",
-    "turretCaliber": "77"
+    "turret": "77 mm OQF Mk.II cannon"
   }
 ]

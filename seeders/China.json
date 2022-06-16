@@ -1,86 +1,86 @@
 [
   {
-    "tankName": "M3A3 Stuart",
-    "rank": "",
-    "type": "",
+    "tankName": "M3A3 Stuart (China)",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "6",
-    "turretCaliber": "37"
+    "turret": "37 mm M6 cannon"
   },
   {
-    "tankName": "M24 Chaffee (China)",
-    "rank": "",
-    "type": "",
+    "tankName": "M24 (China)",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "6",
-    "turretCaliber": "75"
+    "turret": "75 mm M6 cannon"
   },
   {
     "tankName": "Chi-Ha Kai (China)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "6",
-    "turretCaliber": "47"
+    "turret": "47 mm Type 1 cannon"
   },
   {
     "tankName": "T-34 (1943) (China)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "6",
-    "turretCaliber": "76"
+    "turret": "76 mm F-34 cannon"
   },
   {
-    "tankName": "M4A4 Sherman (China)",
-    "rank": "",
-    "type": "",
+    "tankName": " M4A4 (China)",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "6",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
     "tankName": "LVT(A)(4) (ZiS-2)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "6",
-    "turretCaliber": "57"
+    "turret": "57 mm ZIS-2 cannon"
   },
   {
     "tankName": "M10 GMC (China)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "6",
-    "turretCaliber": "76"
+    "turret": "76 mm M7 cannon"
   },
   {
     "tankName": "PT-76 (China)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "6",
-    "turretCaliber": "76"
+    "turret": "76 mm D-56T cannon"
   },
   {
     "tankName": "M4A1 (75) W (China)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "6",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
     "tankName": "T-34-85 (S-53) (China)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "6",
-    "turretCaliber": "85"
+    "turret": "85 mm ZIS-S-53 cannon"
   },
   {
     "tankName": "ISU-152 (China)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "6",
-    "turretCaliber": "152"
+    "turret": "152 mm ML-20S cannon"
   },
   {
     "tankName": "M18 GMC (China)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "6",
-    "turretCaliber": "76"
+    "turret": "76 mm M1 cannon"
   }
 ]

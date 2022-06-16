@@ -1,121 +1,121 @@
 [
   {
     "tankName": "AB 43",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "7",
-    "turretCaliber": "47"
+    "turret": "47 mm 47/40 mod.38 cannon"
   },
   {
     "tankName": "M3A3 (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "7",
-    "turretCaliber": "37"
+    "turret": "37 mm M6 cannon"
   },
   {
     "tankName": "M24 (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "light tank",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm M6 cannon"
   },
   {
     "tankName": "M15/42",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "47"
+    "turret": "47 mm 47/40 mod.38 cannon"
   },
   {
     "tankName": "Pz.III N (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm KwK37 cannon"
   },
   {
     "tankName": "P40",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm Ansaldo 75 L/34 cannon"
   },
   {
     "tankName": "75/18 M41",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm 75/18 mod.34 cannon"
   },
   {
     "tankName": "75/34 M42",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm 75/34 mod.39 cannon"
   },
   {
     "tankName": "105/25 M43",
-    "rank": "",
-    "type": "",
+    "rank": "2",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "105"
+    "turret": "105 mm Cannone Ansaldo da 105/25 cannon"
   },
   {
     "tankName": "Breda 501",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "90"
+    "turret": "90 mm 90/53 mod.41 cannon"
   },
   {
     "tankName": "M18 (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "light tank",
     "countryId": "7",
-    "turretCaliber": "76"
+    "turret": "76 mm M1 cannon"
   },
   {
     "tankName": "M4A4 (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm M3 cannon"
   },
   {
     "tankName": "M4 Tipo IC",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
     "tankName": "Sherman Vc (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "medium tank",
     "countryId": "7",
-    "turretCaliber": "76"
+    "turret": "76 mm QF 17-pounder cannon"
   },
   {
     "tankName": "90/53 M41M",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "90"
+    "turret": "90 mm 90/53 mod.41 cannon"
   },
   {
     "tankName": "StuG III G (Italy)",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm StuK40 L48 cannon"
   },
   {
     "tankName": "75/46 M43",
-    "rank": "",
-    "type": "",
+    "rank": "3",
+    "type": "tank destroyer",
     "countryId": "7",
-    "turretCaliber": "75"
+    "turret": "75 mm OTO 75/43 mod.40 cannon"
   }
 ]
