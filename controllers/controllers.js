@@ -1,3 +1,4 @@
+const { response } = require("express");
 const { Users, Countries, Tanks } = require("../models");
 
 class Controllers {
@@ -85,6 +86,16 @@ class Controllers {
         { where: { tankName: req.body.target } }
       );
       res.status(200).json({ status: "Update completed" });
+    } catch (err) {
+      next(err);
+    }
+  }
+  static async deleteTank(req, res, next) {
+    try {
+      let deleteTank = await Tanks.destroy({
+        where: { tankName: req.body.tankName },
+      });
+      res.status(200).json({ status: "Tank deleted successfully" });
     } catch (err) {
       next(err);
     }

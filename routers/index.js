@@ -8,6 +8,7 @@ router.post("/tankName", Controllers.findTanksByName);
 router.post("/type", Controllers.findTanksByType);
 router.post("/addTank", Controllers.addTank);
 router.post("/update", Controllers.updateTank);
+router.delete("/delete", Controllers.deleteTank);
 
 module.exports = router;
 // //Middleware
