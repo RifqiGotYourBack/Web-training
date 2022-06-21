@@ -6,6 +6,8 @@ router.post("/login", Controllers.login);
 router.post("/country", Controllers.findTanksByCountry);
 router.post("/tankName", Controllers.findTanksByName);
 router.post("/type", Controllers.findTanksByType);
+router.post("/addTank", Controllers.addTank);
+router.post("/update", Controllers.updateTank);
 
 module.exports = router;
 // //Middleware

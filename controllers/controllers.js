@@ -53,6 +53,42 @@ class Controllers {
       next(err);
     }
   }
+  static async addTank(req, res, next) {
+    try {
+      let findCountry = await Countries.findOne({
+        where: { countryName: req.body.country },
+      });
+      let addTank = await Tanks.create({
+        tankName: req.body.name,
+        turret: req.body.turret,
+        rank: req.body.rank,
+        type: req.body.type,
+        countryId: findCountry.id,
+      });
+    } catch (err) {
+      next(err);
+    }
+  }
+  static async updateTank(req, res, next) {
+    try {
+      let findCountry = await Countries.findOne({
+        where: { countryName: req.body.country },
+      });
+      let updateTank = await Tanks.update(
+        {
+          tankName: req.body.name,
+          turret: req.body.turret,
+          rank: req.body.rank,
+          type: req.body.type,
+          countryId: findCountry.id,
+        },
+        { where: { tankName: req.body.target } }
+      );
+      res.status(200).json({ status: "Update completed" });
+    } catch (err) {
+      next(err);
+    }
+  }
 }
 
 module.exports = Controllers;

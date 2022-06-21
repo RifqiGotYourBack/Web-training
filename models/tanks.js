@@ -18,7 +18,21 @@ module.exports = (sequelize, DataTypes) => {
 
   Tanks.init(
     {
-      tankName: DataTypes.STRING,
+      tankName: {
+        type: DataTypes.STRING,
+      },
+      turret: {
+        type: DataTypes.STRING,
+      },
+      rank: {
+        type: DataTypes.INTEGER,
+      },
+      type: {
+        type: DataTypes.STRING,
+      },
+      countryId: {
+        type: DataTypes.INTEGER,
+      },
     },
     {
       sequelize,
