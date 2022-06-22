@@ -33,6 +33,9 @@ module.exports = (sequelize, DataTypes) => {
       countryId: {
         type: DataTypes.INTEGER,
       },
+      is_active: {
+        type: DataTypes.BOOLEAN,
+      },
     },
     {
       sequelize,

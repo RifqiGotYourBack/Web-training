@@ -1,4 +1,5 @@
 const { response } = require("express");
+const { Op } = require("sequelize");
 const { Users, Countries, Tanks } = require("../models");
 
 class Controllers {
@@ -70,6 +71,17 @@ class Controllers {
       next(err);
     }
   }
+  static async deleteTank(req, res, next) {
+    try {
+      let deleteTank = await Tanks.update(
+        { is_active: false },
+        { where: { tankName: req.body.name } }
+      );
+      res.status(200).json({ status: "Tank deleted successfully" });
+    } catch (err) {
+      next(err);
+    }
+  }
   static async updateTank(req, res, next) {
     try {
       let findCountry = await Countries.findOne({
@@ -86,16 +98,6 @@ class Controllers {
         { where: { tankName: req.body.target } }
       );
       res.status(200).json({ status: "Update completed" });
-    } catch (err) {
-      next(err);
-    }
-  }
-  static async deleteTank(req, res, next) {
-    try {
-      let deleteTank = await Tanks.destroy({
-        where: { tankName: req.body.tankName },
-      });
-      res.status(200).json({ status: "Tank deleted successfully" });
     } catch (err) {
       next(err);
     }

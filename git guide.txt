@@ -1,6 +1,0 @@
-git add .
-
-git commit -m "{Changelog to update}"
-
-git push origin master
-
